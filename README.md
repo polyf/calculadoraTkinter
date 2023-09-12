@@ -16,7 +16,7 @@ Este é um projeto de calculadora básica implementada em Python utilizando Tkin
 
 - Python
 
-### Instalação
+### Instalação e Uso
 
 1. Clone o repositório:
 
